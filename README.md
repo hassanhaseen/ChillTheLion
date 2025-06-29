@@ -6,7 +6,7 @@ Welcome to **Chill the Lion** — a playful interactive 3D web experience where 
 Chill the Lion is a browser-based 3D scene featuring a stylized lion. You can "make wind" by pressing and dragging your mouse (or using touch on mobile), and watch as the lion responds with delight. The project is a great starting point for learning about 3D graphics, creative coding, and interactive web design.
 
 ## 🚀 Live Demo
-You can run the project locally or deploy it to your favorite static hosting service (like GitHub Pages, Netlify, or Vercel).
+[Click Me!](https://hassanhaseen.github.io/ChillTheLion/)
 
 ## 🛠️ How to Run
 1. **Clone or download this repository.**
@@ -32,7 +32,6 @@ You can run the project locally or deploy it to your favorite static hosting ser
 
 ## 🙏 Credits
 - 3D graphics powered by [Three.js](https://threejs.org/)
-- Original concept and code inspiration: [Your Name or Source, if applicable]
 
 ## 📝 License
 This project is open source and free to use for learning and fun. Feel free to fork, modify, and share!
